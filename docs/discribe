@@ -1,0 +1,9 @@
+
+# 加法运算
+result = scipy.add(1, 2)
+
+# 正弦函数
+sine_values = scipy.sin(3.14)
+
+# 自然对数
+log_value = scipy.log(10)
